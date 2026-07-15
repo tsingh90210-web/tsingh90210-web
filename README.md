@@ -76,19 +76,19 @@ Backend services using Node.js and Spring Boot with SQL database integration.
 - Experimenting with AI/ML deployment on cloud platforms
 ---
 
-## 📚 Currently Learning
+## 📚 Engineering Interests
 
-- Git & GitHub workflows
-- Node.js and backend development
-- SQL and database design
-- Java Spring Boot
+- Cloud Architecture
 - Infrastructure as Code
-- AI/ML cloud deployment concepts
+- Secure Backend Systems
+- Platform Engineering
+- Infrastructure as Code
+- AI-enabled Cloud Solutions
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: [tajinder-singh-ict-development-coach] (https://www.linkedin.com/in/tajinder-singh-ict-development-coach)
+LinkedIn: [tajinder-singh-cloud] (https://www.linkedin.com/in/tajinder-singh-cloud)
 
 
