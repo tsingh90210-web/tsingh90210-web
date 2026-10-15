@@ -1,6 +1,6 @@
 # Hi, I'm Tajinder Singh 👋
 
-## Cloud & DevOps Engineer | AWS Certified Solutions Architect | TOGAF Practitioner
+## Cloud & DevOps Engineer | AWS Certified Solutions Architect | GCP | Terraform | CI/CD
 
 Passionate about building **secure, scalable cloud infrastructure** and automation solutions. Experienced in designing cloud environments, implementing CI/CD pipelines, and deploying serverless applications on GCP and AWS. Ready to apply my skills to solve real-world engineering challenges.
 
