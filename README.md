@@ -76,11 +76,6 @@ Server monitoring tool built with Python to detect service downtime and send aut
 - Configured monitoring, logging, and security hardening on cloud platforms
 - Gained hands-on experience with container orchestration and Kubernetes
 
-### AI & Automation Skills Coach — Tess Group | Apr 2026 – Present
-- Coaching apprentices on the Level 4 AI & Automation Practitioner standard
-- Translating complex cloud and automation concepts into clear learning materials
-- Supporting learners to apply cloud, IaC, and DevOps principles to real business scenarios
-
 ---
 
 ## � Engineering Interests
