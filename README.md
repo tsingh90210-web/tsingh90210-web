@@ -54,16 +54,7 @@ Static site built with HTML, CSS, and JavaScript, deployed live via GitHub Pages
 
 ### ☁️ Cloud Infrastructure Automation
 Infrastructure as Code project provisioning GCP resources using Terraform — reproducible, version-controlled deployments.
-📂 **Repository:** [Add your repo link here]
-
-### ⚡ PowerShell IT Automation Toolkit
-Automation scripts for user provisioning, system monitoring, and routine IT administration tasks.
-📂 **Repository:** [Add your repo link here]
-
-### 📊 Cloud Monitoring Tool
-Server monitoring tool built with Python to detect service downtime and send automated alerts.
-📂 **Repository:** [Add your repo link here]
-
+📂 **Repository:** https://github.com/singh90210-web/my-first-api
 ---
 
 ## 💼 Professional Experience
